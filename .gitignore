@@ -1,0 +1,14 @@
+# Virtual Environments
+myenv/
+venv/
+env/
+
+# Secret API Keys
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
